@@ -1,0 +1,3 @@
+INSERT INTO TB_USER (id, name, cpf, phone, email, password) VALUES (1, 'EDUARDO', '999.888.444.33', '83 99999-8888','EDUARDO@EMAIL.COM' ,'123456');
+INSERT INTO TB_USER (id, name, cpf, phone, email, password) VALUES (2, 'ANDRE', '888.555.333.11', '83 98888-7777','ANDRE@EMAIL.COM', '654321');
+INSERT INTO TB_USER (id, name, cpf, phone, email, password) VALUES (3, 'MARCELO', '777.666.555.44', '83 99777-6666','MARCELO@EMAIL.COM' ,'741963');
